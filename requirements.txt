@@ -1,3 +1,4 @@
+streamlit>=0.80.0
 pandas>=1.2.2
 numpy>=1.18.5
 matplotlib>=3.3.4
