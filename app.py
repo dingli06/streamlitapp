@@ -8,6 +8,7 @@ plt.rcParams['axes.unicode_minus'] = False
 
 side=st.sidebar
 side.title("Welcome Here")
+side.image("t.jpg")
 classes=["智能科学与技术19-1","智能科学与技术19-2","大数据科学与技术19-1","大数据科学与技术19-2"]
 sheets=["sheet1","sheet2","sheet3","sheet4"]
 choose=st.selectbox("选择班级",classes)
